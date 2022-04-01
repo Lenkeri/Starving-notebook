@@ -6,6 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".ui.home.HomeFragment">
 
+<!--    < com.jjoe64.graphview.GraphView-->
+<!--    android : layout_width = " match_parent "-->
+<!--    android : layout_height = " 200dip "-->
+<!--    android : id = " @+id/graph " />-->
+
     <TextView
         android:id="@+id/text_home"
         android:layout_width="match_parent"
